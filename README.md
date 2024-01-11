@@ -14,5 +14,6 @@ My Solutions for LeetCode problems.
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | [Python](./Python/0938_range_sum_of_bst.py)
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard | [Python](./Python/1235_maximum_profit_in_job_scheduling.py) |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Medium | [Python](./Python/2125_number_of_laser_beams_in_a_bank.py) |
+| 2385 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium | [Python](./Python/2385_amount_of_time_for_binary_tree_to_be_infected.py) |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | Medium | [Python](./Python/2610_convert_an_array_into_a_2d_array_with_conditions.py) |
 | 2870 | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | Medium | [Python](./Python/2870_minimum_number_of_operations_to_make_array_empty.py) |
