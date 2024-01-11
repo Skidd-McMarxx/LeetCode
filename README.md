@@ -12,6 +12,7 @@ My Solutions for LeetCode problems.
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Python](./Python/0455_assign_cookies.py) |
 | 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | [Python](./Python/0872_leaf_similar_trees.py)
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | [Python](./Python/0938_range_sum_of_bst.py)
+| 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Medium | [Python](./Python/1026_maximum_difference_between_node_and_ancestor.py) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard | [Python](./Python/1235_maximum_profit_in_job_scheduling.py) |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Medium | [Python](./Python/2125_number_of_laser_beams_in_a_bank.py) |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium | [Python](./Python/2385_amount_of_time_for_binary_tree_to_be_infected.py) |
