@@ -7,6 +7,7 @@ My Solutions for LeetCode problems.
 | - | - | - | - |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](./Python/0001_two_sum.py) |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Python](./Python/0300_longest_increasing_subsequence.py) |
+| 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | [Python](./Python/0380_insert_delete_getrandom_O(1).py) |
 | 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | Medium | [Python](./Python/0413_arithmatic_slices.py) |
 | 0446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | Hard | [Python](./Python/0446_arithmetic_slices_ii_subsequence.py) |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Python](./Python/0455_assign_cookies.py) |
