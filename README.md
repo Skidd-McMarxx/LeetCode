@@ -12,8 +12,8 @@ My Solutions for LeetCode problems.
 | 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | Medium | [Python](./Python/0413_arithmatic_slices.py) |
 | 0446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | Hard | [Python](./Python/0446_arithmetic_slices_ii_subsequence.py) |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Python](./Python/0455_assign_cookies.py) |
-| 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | [Python](./Python/0872_leaf_similar_trees.py)
-| 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | [Python](./Python/0938_range_sum_of_bst.py)
+| 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | [Python](./Python/0872_leaf_similar_trees.py) |
+| 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | [Python](./Python/0938_range_sum_of_bst.py) |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Medium | [Python](./Python/1026_maximum_difference_between_node_and_ancestor.py) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | [Python](./Python/1207_unique_number_of_occurrences.py) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard | [Python](./Python/1235_maximum_profit_in_job_scheduling.py) |
