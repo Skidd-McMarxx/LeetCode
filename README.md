@@ -6,7 +6,8 @@ My Solutions for LeetCode problems.
 | # | Title | Difficulty | Solutions |
 | - | - | - | - |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](./Python/0001_two_sum.py) |
-| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [Python](./Python/0070_climbing_stairs.py)
+| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [Python](./Python/0070_climbing_stairs.py) |
+| 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Python](./Python/0198_house_robber.py) |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Python](./Python/0300_longest_increasing_subsequence.py) |
 | 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | [Python](./Python/0380_insert_delete_getrandom_O(1).py) |
 | 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | Medium | [Python](./Python/0413_arithmatic_slices.py) |
