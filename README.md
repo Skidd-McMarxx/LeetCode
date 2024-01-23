@@ -21,6 +21,7 @@ My Solutions for LeetCode problems.
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Medium | [Python](./Python/1026_maximum_difference_between_node_and_ancestor.py) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | [Python](./Python/1207_unique_number_of_occurrences.py) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard | [Python](./Python/1235_maximum_profit_in_job_scheduling.py) |
+| 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium | [Python](./Python/1239_maximum_length_of_a_concatenated_string_with_unique_characters.py) |
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Medium | [Python](./Python/1347_minimum_number_of_steps_to_make_two_strings_anagram.py) |
 | 1480 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Python](./Python/1480_running_sum_of_1d_array.py) |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | [Python](./Python/1657_determine_if_two_strings_are_close.py) |
