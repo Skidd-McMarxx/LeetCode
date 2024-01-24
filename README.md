@@ -23,6 +23,7 @@ My Solutions for LeetCode problems.
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard | [Python](./Python/1235_maximum_profit_in_job_scheduling.py) |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium | [Python](./Python/1239_maximum_length_of_a_concatenated_string_with_unique_characters.py) |
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Medium | [Python](./Python/1347_minimum_number_of_steps_to_make_two_strings_anagram.py) |
+| 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | [Python](./Python/1457_pseudo_palindromic_paths_in_a_binary_tree.py) |
 | 1480 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Python](./Python/1480_running_sum_of_1d_array.py) |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | [Python](./Python/1657_determine_if_two_strings_are_close.py) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | [Python](./Python/1672_richest_customer_wealth.py) |
