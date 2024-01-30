@@ -26,6 +26,7 @@ My Solutions for LeetCode problems.
 | 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | [Python](./Python/0907_sum_of_subarray_minimums.py) |
 | 0931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [Python](./Python/0931_minimum_falling_path_sum.py) |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | [Python](./Python/0938_range_sum_of_bst.py) |
+| 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Python](./Python/0977_squares_of_a_sorted_array.py) |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Medium | [Python](./Python/1026_maximum_difference_between_node_and_ancestor.py) |
 | 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | Hard | [Python](./Python/1074_number_of_submatrices_that_sum_to_target.py) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Python](./Python/1143_longest_common_subsequence.py) |
