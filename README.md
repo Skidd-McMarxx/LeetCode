@@ -7,6 +7,7 @@ My Solutions for LeetCode problems.
 | - | - | - | - |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](./Python/0001_two_sum.py) |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [Python](./Python/0070_climbing_stairs.py) |
+| 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Python](./Python/0150_evaluate_reverse_polish_notation.py) |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Python](./Python/0198_house_robber.py) |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Python](./Python/0232_implement_queue_using_stacks.py) |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Python](./Python/0300_longest_increasing_subsequence.py) |
