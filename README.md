@@ -17,6 +17,7 @@ My Solutions for LeetCode problems.
 | 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | Medium | [Python](./Python/0413_arithmatic_slices.py) |
 | 0446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | Hard | [Python](./Python/0446_arithmetic_slices_ii_subsequence.py) |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Python](./Python/0455_assign_cookies.py) |
+| 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Python](./Python/0485_max_consecutive_ones.py) |
 | 0576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | Medium | [Python](./Python/0576_out_of_boundary_paths.py) |
 | 0629 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | Hard | [Python](./Python/0629_k_inverse_pairs_array.py) |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [Python](./Python/0645_set_mismatch.py) |
