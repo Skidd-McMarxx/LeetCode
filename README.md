@@ -21,6 +21,7 @@ My Solutions for LeetCode problems.
 | 0576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | Medium | [Python](./Python/0576_out_of_boundary_paths.py) |
 | 0629 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | Hard | [Python](./Python/0629_k_inverse_pairs_array.py) |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [Python](./Python/0645_set_mismatch.py) |
+| 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [Python](./Python/0739_daily_temperatures.py) |
 | 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | [Python](./Python/0872_leaf_similar_trees.py) |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Python](./Python/0876_middle_of_the_linked_list.py) |
 | 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | [Python](./Python/0907_sum_of_subarray_minimums.py) |
