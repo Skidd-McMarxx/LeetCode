@@ -6,7 +6,8 @@ My Solutions for LeetCode problems.
 | # | Title | Difficulty | Solutions |
 | - | - | - | - |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](./Python/0001_two_sum.py) |
-| 0026 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Python](./Python/0027_remove_element.py) |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Python](./Python/0026_remove_duplicates_from_sorted_array.py) |
+| 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Python](./Python/0027_remove_element.py) |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [Python](./Python/0070_climbing_stairs.py) |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Python](./Python/0150_evaluate_reverse_polish_notation.py) |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Python](./Python/0198_house_robber.py) |
