@@ -30,6 +30,7 @@ My Solutions for LeetCode problems.
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Python](./Python/0977_squares_of_a_sorted_array.py) |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Medium | [Python](./Python/1026_maximum_difference_between_node_and_ancestor.py) |
 | 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | Hard | [Python](./Python/1074_number_of_submatrices_that_sum_to_target.py) |
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | Easy | [Python](./Python/1089_duplicate_zeros.py) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Python](./Python/1143_longest_common_subsequence.py) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | [Python](./Python/1207_unique_number_of_occurrences.py) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard | [Python](./Python/1235_maximum_profit_in_job_scheduling.py) |
