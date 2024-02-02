@@ -37,6 +37,7 @@ My Solutions for LeetCode problems.
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | [Python](./Python/1207_unique_number_of_occurrences.py) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard | [Python](./Python/1235_maximum_profit_in_job_scheduling.py) |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium | [Python](./Python/1239_maximum_length_of_a_concatenated_string_with_unique_characters.py) |
+| 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Medium | [Python](./Python/1291_sequential_digits.py) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [Python](./Python/1295_find_numbers_with_even_number_of_digits.py) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | [Python](./Python/1342_number_of_steps_to_reduce_a_number_to_zero.py) |
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Medium | [Python](./Python/1347_minimum_number_of_steps_to_make_two_strings_anagram.py) |
