@@ -8,6 +8,7 @@ My Solutions for LeetCode problems.
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](./Python/0001_two_sum.py) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Python](./Python/0026_remove_duplicates_from_sorted_array.py) |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Python](./Python/0027_remove_element.py) |
+| 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Python](./Python/0049_group_anagrams.py) |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [Python](./Python/0070_climbing_stairs.py) |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Python](./Python/0076_minimum_window_substring.py) |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Python](./Python/0150_evaluate_reverse_polish_notation.py) |
