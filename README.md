@@ -21,6 +21,7 @@ My Solutions for LeetCode problems.
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Pythpn](./Python/0412_fizz_buzz.py) |
 | 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | Medium | [Python](./Python/0413_arithmatic_slices.py) |
 | 0446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | Hard | [Python](./Python/0446_arithmetic_slices_ii_subsequence.py) |
+| 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | [Python](./Python/0451_sort_characters_by_frequency.py) |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Python](./Python/0455_assign_cookies.py) |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Python](./Python/0485_max_consecutive_ones.py) |
 | 0576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | Medium | [Python](./Python/0576_out_of_boundary_paths.py) |
