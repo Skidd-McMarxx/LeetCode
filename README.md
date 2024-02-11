@@ -50,6 +50,7 @@ My Solutions for LeetCode problems.
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | [Python](./Python/1342_number_of_steps_to_reduce_a_number_to_zero.py) |
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Medium | [Python](./Python/1347_minimum_number_of_steps_to_make_two_strings_anagram.py) |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | [Python](./Python/1457_pseudo_palindromic_paths_in_a_binary_tree.py) |
+| 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | [Python](./Python/1463_cherry_pickup_ii.py) |
 | 1480 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Python](./Python/1480_running_sum_of_1d_array.py) |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | [Python](./Python/1657_determine_if_two_strings_are_close.py) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | [Python](./Python/1672_richest_customer_wealth.py) |
