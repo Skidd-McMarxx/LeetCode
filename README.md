@@ -53,6 +53,7 @@ My Solutions for LeetCode problems.
 | 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | [Python](./Python/1463_cherry_pickup_ii.py) |
 | 1480 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Python](./Python/1480_running_sum_of_1d_array.py) |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | [Python](./Python/1657_determine_if_two_strings_are_close.py) |
+| 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Python](./Python/0169_majority_element.py) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | [Python](./Python/1672_richest_customer_wealth.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | [Python](./Python/1704_determine_if_string_halves_are_alike.py) |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Medium | [Python](./Python/2125_number_of_laser_beams_in_a_bank.py) |
