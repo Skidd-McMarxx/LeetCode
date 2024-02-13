@@ -56,6 +56,7 @@ My Solutions for LeetCode problems.
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Python](./Python/0169_majority_element.py) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | [Python](./Python/1672_richest_customer_wealth.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | [Python](./Python/1704_determine_if_string_halves_are_alike.py) |
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Easy | [Python](./Python/2108_find_first_palindromic_tring_in_the_array.py) |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Medium | [Python](./Python/2125_number_of_laser_beams_in_a_bank.py) |
 | 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | Medium | [Python](./Python/2225_find_players_with_zero_or_one_losses.py) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | [Python](./Python/2235_add_two_integers.py) |
