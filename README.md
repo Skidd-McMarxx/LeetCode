@@ -48,6 +48,7 @@ My Solutions for LeetCode problems.
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Medium | [Python](./Python/1291_sequential_digits.py) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [Python](./Python/1295_find_numbers_with_even_number_of_digits.py) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | [Python](./Python/1342_number_of_steps_to_reduce_a_number_to_zero.py) |
+| 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy | [Python](./Python/1346_check_if_n_and_its_double_exist.py) |
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Medium | [Python](./Python/1347_minimum_number_of_steps_to_make_two_strings_anagram.py) |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | [Python](./Python/1457_pseudo_palindromic_paths_in_a_binary_tree.py) |
 | 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | [Python](./Python/1463_cherry_pickup_ii.py) |
