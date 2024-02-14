@@ -12,6 +12,7 @@ My Solutions for LeetCode problems.
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [Python](./Python/0070_climbing_stairs.py) |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Python](./Python/0076_minimum_window_substring.py) |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Python](./Python/0150_evaluate_reverse_polish_notation.py) |
+| 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Python](./Python/0169_majority_element.py) |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Python](./Python/0198_house_robber.py) |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Python](./Python/0232_implement_queue_using_stacks.py) |
 | 0279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Python](./Python/0279_perfect_squares.py) |
@@ -54,7 +55,6 @@ My Solutions for LeetCode problems.
 | 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | [Python](./Python/1463_cherry_pickup_ii.py) |
 | 1480 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Python](./Python/1480_running_sum_of_1d_array.py) |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | [Python](./Python/1657_determine_if_two_strings_are_close.py) |
-| 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Python](./Python/0169_majority_element.py) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | [Python](./Python/1672_richest_customer_wealth.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | [Python](./Python/1704_determine_if_string_halves_are_alike.py) |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Easy | [Python](./Python/2108_find_first_palindromic_tring_in_the_array.py) |
