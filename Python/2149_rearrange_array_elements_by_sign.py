@@ -32,7 +32,3 @@ class Solution2:
                 res[neg_index] = n
                 neg_index += 2
         return res
-
-
-sol = Solution2()
-print(sol.rearrangeArray([3,1,-2,-5,2,-4]), [3,-2,1,-5,2,-4])
