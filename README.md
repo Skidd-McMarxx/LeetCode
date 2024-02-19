@@ -14,6 +14,7 @@ My Solutions for LeetCode problems.
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Python](./Python/0150_evaluate_reverse_polish_notation.py) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Python](./Python/0169_majority_element.py) |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Python](./Python/0198_house_robber.py) |
+| 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Python](./Python/0231_power_of_two.py) |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Python](./Python/0232_implement_queue_using_stacks.py) |
 | 0279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Python](./Python/0279_perfect_squares.py) |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Python](./Python/0300_longest_increasing_subsequence.py) |
