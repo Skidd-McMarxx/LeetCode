@@ -35,6 +35,7 @@ My Solutions for LeetCode problems.
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [Python](./Python/0645_set_mismatch.py) |
 | 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium | [Python](./Python/0647_palindromic_substrings.py) |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [Python](./Python/0739_daily_temperatures.py) |
+| 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium | [Python](./Python/0787_cheapest_flights_within_k_tops.py) |
 | 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | [Python](./Python/0872_leaf_similar_trees.py) |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Python](./Python/0876_middle_of_the_linked_list.py) |
 | 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | [Python](./Python/0907_sum_of_subarray_minimums.py) |
