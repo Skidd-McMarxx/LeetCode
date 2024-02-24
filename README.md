@@ -64,6 +64,7 @@ My Solutions for LeetCode problems.
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | [Python](./Python/1657_determine_if_two_strings_are_close.py) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | [Python](./Python/1672_richest_customer_wealth.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | [Python](./Python/1704_determine_if_string_halves_are_alike.py) |
+| 2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | Hard | [Python](./Python/2092_find_all_people_with_secret.py) |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Easy | [Python](./Python/2108_find_first_palindromic_tring_in_the_array.py) |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Medium | [Python](./Python/2125_number_of_laser_beams_in_a_bank.py) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | [Python](./Python/2149_rearrange_array_elements_by_sign.py) |
